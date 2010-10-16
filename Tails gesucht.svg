@@ -15,7 +15,10 @@
    id="svg2830"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="Tails gesucht.svg">
+   sodipodi:docname="Tails gesucht.pdf"
+   inkscape:export-filename="/home/niklas/Desktop/Aushang/Tails gesucht.png"
+   inkscape:export-xdpi="72.57"
+   inkscape:export-ydpi="72.57">
   <defs
      id="defs3">
     <inkscape:perspective
@@ -41,9 +44,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0933473"
-     inkscape:cx="443.95531"
-     inkscape:cy="755.56063"
+     inkscape:zoom="2.479288"
+     inkscape:cx="175.2096"
+     inkscape:cy="561.74576"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
@@ -77,6 +80,14 @@
        orientation="0,1"
        position="-310.93491,194.79158"
        id="guide2908" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-312.19113,936.5734"
+       id="guide3693" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="663.49695,211.351"
+       id="guide3692" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -86,7 +97,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,6 +105,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.99921262000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.60888887000000003;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2918"
+       width="697.78119"
+       height="815.96039"
+       x="17.74703"
+       y="25.051104"
+       rx="20.19685" />
     <image
        y="113.35413"
        x="88.193222"
@@ -135,27 +154,28 @@
            x="124.62086"
            y="636.32025" /></flowRegion><flowPara
          id="flowPara3658"
-         style="font-size:21px">* Rücken schwarz, weißer Bauch, Nase asymmetrisch gefleckt</flowPara><flowPara
+         style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">* Rücken schwarz, weißer Bauch, Nase einseitig weiß</flowPara><flowPara
          id="flowPara3660"
-         style="font-size:21px">* sehr zutraulich und verspielt</flowPara><flowPara
+         style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">* sehr zutraulich, gesprächig und verspielt</flowPara><flowPara
          id="flowPara3664"
-         style="font-size:21px">* ein paar kahle Stellen am Hals (Futterallergie!!)</flowPara><flowPara
+         style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">* ein paar kahle Stellen am Hals (aufgekratzt wegen Futterallergie!!)</flowPara><flowPara
          id="flowPara3666"
-         style="font-size:21px">* hört auf den Namen &quot;Tails&quot; (selten..)</flowPara><flowPara
-         id="flowPara3662" /></flowRoot>    <flowRoot
+         style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
+         id="flowPara3662"
+         style="font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3668"
        style="font-size:22px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-12.212182,-185.40011)"><flowRegion
+       transform="translate(-12.212182,-215.40011)"><flowRegion
          id="flowRegion3670"><rect
            id="rect3672"
            width="495.35767"
-           height="112.28141"
+           height="159.52415"
            x="129.41397"
            y="876.93439" /></flowRegion><flowPara
          id="flowPara2909"
-         style="text-align:start;text-anchor:start">Er wird seit Sonntag, den 10.10.2010 ~ 19 Uhr vermisst. Ich bin für jeden Hinweis dankbar - auch wenn er unerfreulich ist.</flowPara><flowPara
-         style="text-align:end;text-anchor:end"
+         style="text-align:start;text-anchor:start;-inkscape-font-specification:FreeSerif;font-family:FreeSerif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Er ist am Sonntag, den 10.10.2010 ~ 19 Uhr aus der Boxhagener Str. 43 ausgebüchst und wird seitdem schmerzlich vermisst. Ich bin für jeden Hinweis dankbar - auch wenn er unerfreulich ist.</flowPara><flowPara
+         style="text-align:end;text-anchor:end;-inkscape-font-specification:FreeSerif;font-family:FreeSerif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
          id="flowPara2932"> Niklas</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3680"
@@ -247,14 +267,15 @@
          id="flowPara3744">0163 555 1658</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3746"
-       style="font-size:22px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(148.48622,-126.18537)"><flowRegion
+       style="font-size:22px;fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       transform="translate(148.48622,-140.18537)"><flowRegion
          id="flowRegion3748"><rect
            id="rect3750"
            width="444.8006"
            height="56.558697"
            x="133.24846"
-           y="951.70685" /></flowRegion><flowPara
+           y="951.70685"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3752">0163 555 1658</flowPara></flowRoot>    <flowRoot
        transform="matrix(0,1,-1,0,1261.7475,724.30498)"
        style="font-size:22px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -343,37 +364,38 @@
            height="56.558697"
            x="133.24846"
            y="951.70685" /></flowRegion><flowPara
-         id="flowPara3816">0163 555 1658</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       x="-806.0993"
-       y="673.91083"
-       id="text2911"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan2913"
-         x="-806.0993"
-         y="673.91083">Bitte reißen Sie diese Zettel nicht ab. Ich werde sie entfernen, sobald Tails wieder heimgefunden hat</tspan></text>
-    <flowRoot
+         id="flowPara3816">0163 555 1658</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3687"
-       style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-10,6)"><flowRegion
          id="flowRegion3689"><rect
            id="rect3691"
            width="40.06258"
            height="22.535202"
            x="688.57562"
            y="25.758551" /></flowRegion><flowPara
-         id="flowPara3693">v0.8</flowPara></flowRoot>    <text
+         id="flowPara3693">v0.9</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="687.08154"
-       y="56.069603"
+       x="663.08154"
+       y="60.069603"
        id="text2916"><tspan
          sodipodi:role="line"
          id="tspan2918"
-         x="687.08154"
-         y="56.069603"
-         style="font-size:10px">15.10.2010</tspan></text>
+         x="663.08154"
+         y="60.069603"
+         style="font-size:10px">16.10.2010</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="116.95188"
+       y="125.8373"
+       id="text2917"><tspan
+         sodipodi:role="line"
+         id="tspan2919"
+         x="116.95188"
+         y="125.8373"
+         style="font-size:12px;fill:#000000;fill-opacity:1">http://twitter.com/tailsonrails</tspan></text>
   </g>
 </svg>
