@@ -15,7 +15,7 @@
    id="svg2830"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="Tails gesucht.pdf"
+   sodipodi:docname="Tails gesucht.svg"
    inkscape:export-filename="/home/niklas/Desktop/Aushang/Tails gesucht.png"
    inkscape:export-xdpi="72.57"
    inkscape:export-ydpi="72.57">
@@ -44,14 +44,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.479288"
-     inkscape:cx="175.2096"
-     inkscape:cy="561.74576"
+     inkscape:zoom="0.93336477"
+     inkscape:cx="153.30432"
+     inkscape:cy="746.04518"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1605"
+     inkscape:window-width="1680"
      inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -88,6 +88,10 @@
        orientation="0,1"
        position="663.49695,211.351"
        id="guide3692" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="222.84964,948.71804"
+       id="guide3696" />
   </sodipodi:namedview>
   <metadata
      id="metadata4">
@@ -375,7 +379,7 @@
            height="22.535202"
            x="688.57562"
            y="25.758551" /></flowRegion><flowPara
-         id="flowPara3693">v0.9</flowPara></flowRoot>    <text
+         id="flowPara3693">v1.0</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="663.08154"
@@ -385,17 +389,40 @@
          id="tspan2918"
          x="663.08154"
          y="60.069603"
-         style="font-size:10px">16.10.2010</tspan></text>
+         style="font-size:10px">17.10.2010</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
        x="116.95188"
-       y="125.8373"
+       y="193.83731"
        id="text2917"><tspan
          sodipodi:role="line"
          id="tspan2919"
          x="116.95188"
-         y="125.8373"
+         y="193.83731"
          style="font-size:12px;fill:#000000;fill-opacity:1">http://twitter.com/tailsonrails</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.29613876px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.33100867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+       x="176.4855"
+       y="102.377"
+       id="text2920"><tspan
+         sodipodi:role="line"
+         id="tspan2922"
+         x="176.4855"
+         y="102.377"
+         style="stroke-width:1.33100867">Finderlohn: ½ Jahr PC-Support</tspan></text>
+    <text
+       id="text3698"
+       y="65.622589"
+       x="-792.68866"
+       style="font-size:21.29613876px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.33100867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
+       xml:space="preserve"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         style="stroke-width:1.33100867"
+         y="65.622589"
+         x="-792.68866"
+         id="tspan3700"
+         sodipodi:role="line">Finderlohn: Ich repariere ½ Jahr lang Ihren Computer</tspan></text>
   </g>
 </svg>
