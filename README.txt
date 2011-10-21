@@ -1,5 +1,5 @@
-Tails ist am Sonntag, den 10.10.2010 um 22 Uhr abgehauen und seitem nicht wieder aufgetaucht. 
+Tails ist am Donnestag, den 20.10.2011 um 12 Uhr erneut abgehauen und seitem nicht wieder aufgetaucht. 
 
 Falls Du ihn siehst, melde Dich bitte.
 
-[ Nein, trotz der fasznierenden Zahlenform des Zeitpunktes ist es kein Scherz ]
+!Tails gesucht.png!
