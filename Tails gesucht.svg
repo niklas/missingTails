@@ -14,7 +14,7 @@
    height="297mm"
    id="svg2830"
    version="1.1"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="Tails gesucht.svg"
    inkscape:export-filename="/home/niklas/Desktop/Aushang/Tails gesucht.png"
    inkscape:export-xdpi="72.57"
@@ -44,17 +44,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93336477"
-     inkscape:cx="153.30432"
-     inkscape:cy="746.04518"
+     inkscape:zoom="1.3199771"
+     inkscape:cx="551.691"
+     inkscape:cy="749.49683"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1680"
-     inkscape:window-height="996"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-height="997"
+     inkscape:window-x="-1"
+     inkscape:window-y="26"
      inkscape:window-maximized="1">
     <sodipodi:guide
        orientation="1,0"
@@ -101,7 +101,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -162,7 +162,7 @@
          id="flowPara3660"
          style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">* sehr zutraulich, gesprächig und verspielt</flowPara><flowPara
          id="flowPara3664"
-         style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">* ein paar kahle Stellen am Hals (aufgekratzt wegen Futterallergie!!)</flowPara><flowPara
+         style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">* ein paar kahle Stellen am Hals </flowPara><flowPara
          id="flowPara3666"
          style="font-size:21px;font-family:FreeSerif;-inkscape-font-specification:FreeSerif" /><flowPara
          id="flowPara3662"
@@ -178,8 +178,8 @@
            x="129.41397"
            y="876.93439" /></flowRegion><flowPara
          id="flowPara2909"
-         style="text-align:start;text-anchor:start;-inkscape-font-specification:FreeSerif;font-family:FreeSerif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Er ist am Sonntag, den 10.10.2010 ~ 19 Uhr aus der Boxhagener Str. 43 ausgebüchst und wird seitdem schmerzlich vermisst. Ich bin für jeden Hinweis dankbar - auch wenn er unerfreulich ist.</flowPara><flowPara
-         style="text-align:end;text-anchor:end;-inkscape-font-specification:FreeSerif;font-family:FreeSerif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:FreeSerif;-inkscape-font-specification:FreeSerif">Er ist am Donnerstag, den 20.10.2011 ~ 12 Uhr aus der Boxhagener Str. 43 ausgebüchst und wird seitdem schmerzlich vermisst. Ich bin für jeden Hinweis dankbar - auch wenn er unerfreulich ist.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:FreeSerif;-inkscape-font-specification:FreeSerif"
          id="flowPara2932"> Niklas</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3680"
@@ -379,17 +379,17 @@
            height="22.535202"
            x="688.57562"
            y="25.758551" /></flowRegion><flowPara
-         id="flowPara3693">v1.0</flowPara></flowRoot>    <text
+         id="flowPara3693">v2.0</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="663.08154"
-       y="60.069603"
+       x="656.35797"
+       y="60.258999"
        id="text2916"><tspan
          sodipodi:role="line"
          id="tspan2918"
-         x="663.08154"
-         y="60.069603"
-         style="font-size:10px">17.10.2010</tspan></text>
+         x="656.35797"
+         y="60.258999"
+         style="font-size:10px">20.10.2011</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
@@ -401,28 +401,5 @@
          x="116.95188"
          y="193.83731"
          style="font-size:12px;fill:#000000;fill-opacity:1">http://twitter.com/tailsonrails</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:21.29613876px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.33100867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
-       x="176.4855"
-       y="102.377"
-       id="text2920"><tspan
-         sodipodi:role="line"
-         id="tspan2922"
-         x="176.4855"
-         y="102.377"
-         style="stroke-width:1.33100867">Finderlohn: ½ Jahr PC-Support</tspan></text>
-    <text
-       id="text3698"
-       y="65.622589"
-       x="-792.68866"
-       style="font-size:21.29613876px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.33100867px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Monospace;-inkscape-font-specification:Monospace"
-       xml:space="preserve"
-       transform="matrix(0,-1,1,0,0,0)"><tspan
-         style="stroke-width:1.33100867"
-         y="65.622589"
-         x="-792.68866"
-         id="tspan3700"
-         sodipodi:role="line">Finderlohn: Ich repariere ½ Jahr lang Ihren Computer</tspan></text>
   </g>
 </svg>
